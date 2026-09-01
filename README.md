@@ -3,7 +3,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=yagizbaybars&theme=radical)](https://git.io/streak-stats)
 # 👋 Hi there, I'm Yağız!
 
-Welcome to my GitHub profile. I'm glad you're here. A beginner eager to learn, grow, and improve. First-year Management Information Systems (YBS / Wirtschaftsinformatik) student at Aksaray University.
+Welcome to my GitHub profile. I'm glad you're here. I'm a beginner eager to learn, grow, and improve. First-year Management Information Systems (YBS / Wirtschaftsinformatik) student at Aksaray University.
 
 ## 👇 Contact Me
 
