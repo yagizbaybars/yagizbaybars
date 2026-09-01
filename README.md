@@ -11,16 +11,16 @@ Welcome to my GitHub profile. I'm glad you're here. I'm a beginner eager to lear
 * 🧷 **Xing:** [Xing Profile](https://www.xing.com/profile/YagizBaybars_Karadag)
 ## 🌍 Languages
 
-**Türkçe**
+**Turkish**
 ████████████████████ 100% (Native)
 
-**Almanca**
+**German**
 ███████████░░░░░░░░░░ 65% (B1)
 
-**İngilizce**
+**English**
 ██████████████░░░░░░░░ 75% (B2)
 
-**İspanyolca**
+**Spanish**
 ████░░░░░░░░░░░░░░░░░ 25% (A1)
 ## 🛠️ Expertise
 ![SQL](https://img.shields.io/badge/SQL-green?style=flat&logo=postgresql)
