@@ -23,8 +23,8 @@ Welcome to my GitHub profile. I'm glad you're here. A beginner eager to learn, g
 **İspanyolca**
 ████░░░░░░░░░░░░░░░░░ 25% (A1)
 ## 🛠️ Expertise
-![SQL](https://img.shields.io/badge/SQL-Essential-green?style=flat&logo=postgresql)
-![Excel](https://img.shields.io/badge/Excel-Essential-217346?style=flat&logo=microsoft-excel)
+![SQL](https://img.shields.io/badge/SQL-green?style=flat&logo=postgresql)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel)
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows)
