@@ -22,4 +22,3 @@ Welcome to my GitHub profile. I'm glad you're here. A beginner eager to learn, g
 
 **İspanyolca**
 ████░░░░░░░░░░░░░░░░░ 25% (A1)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yagizbaybars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
